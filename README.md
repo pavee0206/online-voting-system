@@ -1,6 +1,6 @@
 # online-voting-system
 ## 🔗 Live Demo Access
-Check out the live app here:https://vote-tally--pavithraanbu280.replit.app/
+Check out the live app here:https://surl.li/wmgyg
 Experience the live deployment here: Vortex Vote - Universal Polling System
 
 A Full Stack Online Voting System built with Node.js, Express, and a real time results dashboard.  Features include poll creation, secure voting, live results tracking.
